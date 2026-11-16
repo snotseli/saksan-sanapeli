@@ -1,0 +1,13 @@
+entdecken;keksiä/löytää;ein chemisches Element entdecken
+wachsen;kasvaa;die Kiefer ist schief gewachsen
+die Kiefer;mänty;Die häufigsten Arten in Deutschland sind Fichten, Kiefern und Buchen
+geheim;salainen;Sein genauer Standort ist geheim.
+herstellen;valmistaa;Eine 100-jährige Buche stellt am Tag 13 Kilogramm Sauerstoff her.
+die Buche;pyökki;die Tischplatte ist aus Buche
+der Russ;noki/karsta;Bäume filtern unsere Luft von Staub- und Rußpartikeln.
+herum;ympäri/ympäristössä;Bäume sondern Wasser ab - dadurch wird es um sie herum kühler.
+die Klimaanlage;ilmastointilaite;Bäume sind echt gute Klimaanlagen!
+versorgen;huoltaa/huolehtia;der Hausmeister versorgt die Heizung
+die Wurzel;juuri;Deshalb versorgen ihre "Elternbäume" sie über die Wurzeln mit einer Zuckerlösung.
+der Schrei;huuto;Laut neusten Forschungen schreien Bäume
+messbar;mitattavissa oleva;eine messbare Eigenschaft
