@@ -1,0 +1,16 @@
+das Windrad;tuulimylly;In Deutschland stehen an vielen Orten riesige Windräder.
+die Be'wegung;liike/liikkuminen;Die Flügel werden vom Wind bewegt und ein Generator wandelt diese Drehbewegung in Strom um.
+die Ver'fügung;käyttö/hallinta;Außerdem steht uns Wind immer kostenlos zur Verfügung und wird nie "zu Ende" gehen.
+wehen;tuulla/puhaltaa;Im Norden weht es zum Beispiel mehr als im Süden von Deutschland.
+die Leitung;johto/johdin/putki;Wasser aus der Leitung trinken
+der Staudamm;pato/säännöstelypato;Auch durch Wasser lässt sich Energie gewinnen, nämlich in Wasserkraftwerken an Staudämmen.
+ver'wenden;käyttää/soveltaa;hier kann er sein Deutsch gut verwenden
+der Lebensraum;elintila;Der Bau von Staudämmen und Wasserkraftwerken stört den Lebensraum von Pflanzen und Tieren.
+speichern;varastoida/tallentaa;im Stausee Trinkwasser speichern
+der Strahl;valonsäde;Wenn Sonnenstrahlen auf Solaranlagen treffen, können wir Wasser erwärmen.
+der Rohstoff;raaka-aine;den Rohstoff für etwas bilden
+die Spaltung;jakautuminen;Atomenergie entsteht durch Spaltung von Atomen.
+das Teilchen;hiukkanen;Also winzig kleinen Teilchen, die man mit dem bloßen Auge gar nicht sehen kann.
+die Ge'fahr;vaara;Der größte Nachteil ist die Gefahr von radioaktiver Strahlung, die in Atomkraftwerken entsteht.
+der Müll;jäte;Bisher gibt es keine Möglichkeit, diesen Atommüll sicher zu lagern.
+speichern;varastoida;Mit Hilfe von Wasserstoff kann Energie gut gespeichert werden.

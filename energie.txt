@@ -1,0 +1,17 @@
+Energie;energia;er steckt voller Energie
+der Stromausfall;sähkökatkos;Was tun bei Stromausfall?
+die Flüssigkeit;neste;Erdöl ist eine klebrige Flüssigkeit.
+bohren;porata;in der Nordsee nach Öl bohren
+anmachen;kytkeä päälle;Licht anmachen
+die Heizung;keskuslämmitys/lämmittäminen;Und wenn wir im Winter die Heizung anmachen, dann wird die warm.
+der Boden;maaperä/maa;auf finnischem Boden
+der Unfall;onnettomuus;Und in der Vergangenheit ist es schon zu Unfällen gekommen, bei denen Öl ausgelaufen ist und die Meere verschmutzt hat.
+ent'stehen;syntyä/saada alkunsa;Hier erfahrt ihr, wie Erdgas überhaupt entsteht und warum es überhaupt so ungleich verteilt ist auf der Erde.
+der Schlamm;liete/muta/kura;die Schuhe vom Schlamm reinigen
+der Brennstoff;polttoaine;Viele Länder auf der Welt erzeugen noch immer Energie mit fossilen Brennstoffen.
+er'zeugen;synnyttää/tuottaa;die Sonne erzeugt Wärme
+aus\graben;kaivaa esiin;einen antiken Tempel ausgraben
+der Ort;paikka;Das macht Deutschland unabhängig von anderen Ländern, weil es Energie direkt vor Ort erzeugen kann.
+fördern;louhia;Öl fördern
+tief;syvä;Das Gasgemisch kommt genau wie Erdöl tief in der Erde vor.
+der Dünger;lannoite;Aus beidem können nicht nur Energie, sondern auch viele weitere Produkte wie zum Beispiel Benzin für Autos, Dünger für die Landwirtschaft oder Medikamente produziert werden.

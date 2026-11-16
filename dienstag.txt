@@ -1,0 +1,27 @@
+nutzen;hyödyttää/auttaa;seine Sprachkenntnisse nutzen ihm sehr
+sterben;kuolla;durch einen Unfall sterben
+gebären;syntyä;Michael Ende ist 1929 in München geboren.
+erscheinen;ilmestyä;Im Jahr 1960 is sein erstes Kinderbuch erschienen.
+der Mensch;ihminen;Viele Menschen haben sie gelesen.
+fliehen;paeta;über die Grenze fliehen
+der Anfänger;aloittelija;Selma ist keine Anfängerin mehr.
+traurig;surullinen;bist du traurig darüber?
+die Erkältung;vilustuminen;eine heftige Erkältung/paha vilustuminen
+die Unterkunft;majapaikka;Unterkunft und Verpflegung/majoitus ja ruoka
+kommen;tulla;Ich komme aus Spanien
+leben;elää;Ich lebe in Spanien
+der Irak;Irak;Ich komme aus dem Irak
+die Schweiz;Sveitsi;Ich komme aus der Schweiz
+die USA;USA;ich komme aus den USA
+der Irak;Irak;Ich lebe im Irak
+die Schweiz;Sveitsi;Ich lebe in der Schweiz
+die USA;USA;Ich lebe in den USA.
+der Irak;Irak;Ich reise in den Irak / Matkustan Irakiin (akkusatiivi)
+die Schweiz;Sveitsi;Ich reise in die Schweiz / Matkustan Sveitsiin (akkusatiivi)
+die USA;USA;Ich reise in die USA (akkusatiivi)
+der Anfang;alku;am Anfang der Woche
+aufpassen;vahtia/tarkkailla;auf ein Kind aufpassen
+verdienen;ansaita/saada palkkaa;zehn Euro pro Stunde verdienen
+weil;koska/kun;ich blieb deshalb zu Hause, weil ich krank war
+weinen;itkeä;vor Freude weinen
+weshalb;miksi;weshalb hat er das getan?
