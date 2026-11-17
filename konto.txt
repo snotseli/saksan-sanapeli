@@ -1,0 +1,18 @@
+das Einkommen;tulot;Er hat ein geregeltes Einkommen (säännölliset tulot)
+der Angestellter;virkailija/toimihenkilö;Die Bankangestellten fragen, wie seine Adresse lautet.
+sofort;heti/välittömästi;die Vorschrift gilt ab sofort/määräys astuu voimaan viipymättä
+eröffnen;avata;Nico sagt, dass er ein Konto eröffnen möchte.
+die Bescheinigung;vahvistaminen/todistus;Wir brauchen eine amtliche Bescheinigung darüber, dass ...
+amtlich;virallinen;eine amtliche Bescheinigung/virkatodistus
+abheben;nostaa;Mit der Girocard kann man Geld am Bankautomaten abheben.
+das Unterschied;eroavuus;worin liegt der Unterschied zwischen schwarzem und grünem Tee?
+leihen;lainata;wir haben uns das Geld bei der Bank geliehen
+die Girocard;pankkikortti;Aber ich bekomme eine Girocard. Das ist keine Kreditkarte?
+der Vertrag;sopimus;Das steht auf jeden Fall in deinem Vertrag.
+der Laden;kauppa;Normalerweise kannst du damit auch im Laden bezahlen wie mit Bargeld.
+überfallen;hyökätä;eine Bank überfallen/ryöstää pankki
+manchmal;joskus;Nur mein Vorgesetzter hat mich manchmal überfallen.
+der Vorgesetzter;esimies;meine unmittelbare Vorgesetzte/lähin esimieheni
+ausfüllen;täyttää;ein Formular ausfüllen
+die Gebühr;maksu/palkkio;die Gebühr für eine amtliche Bestätigung/maksu virallisesta vahvistuksesta
+das Geschlecht;sukupuoli;ein Kind männlichen Geschlechts
