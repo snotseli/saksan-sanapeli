@@ -1,5 +1,6 @@
 die Rechnung;lasku;Herr Ober, die Rechnung, bitte!
-die Bestellung;tilaus;viele Bestellungen sind eingegangendie Nachricht;viesti;Nico hat eine Nachricht mit einem Foto geschickt.
+die Bestellung;tilaus;viele Bestellungen sind eingegangen
+die Nachricht;viesti;Nico hat eine Nachricht mit einem Foto geschickt.
 schulden;olla velkaa;ich schulde dir noch 20 Euro
 der Vermieter;vuokranantaja;Das Geld war Yaras Miete. Hauke ist ihr Vermieter.
 die Überweisung;tilisiirto;die Miete per Überweisung bezahlen
