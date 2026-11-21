@@ -1,0 +1,19 @@
+die Rechnung;lsku;Herr Ober, die Rechnung, bitte!
+die Bestellung;tilaus;viele Bestellungen sind eingegangendie Nachricht;viesti;Nico hat eine Nachricht mit einem Foto geschickt.
+schulden;olla velkaa;ich schulde dir noch 20 Euro
+der Vermieter;vuokranantaja;Das Geld war Yaras Miete. Hauke ist ihr Vermieter.
+die Überweisung;tilisiirto;die Miete per Überweisung bezahlen
+die Lastschrift;tiliveloitus;Eine Lastschrift ist eine Zahlungsmethode, bei der ein Zahlungsempfänger einen bestimmten Betrag vom Girokonto des Zahlungspflichtigen einziehen kann.
+der Empfänger;vastaanottaja;Der Zahlungsempfänger kann es vom Konto der Person, die bezahlt, abbuchen.
+der Betrag;rahasumma;einen Betrag auf jemandes Konto überweisen
+abbuchen;veloittaa tiliä;Einen Zahlungsausgang verzeichnet Yaras Konto zum Beispiel, wenn jemand per Lastschrift Geld von ihrem Konto abbucht.
+anmelden;ilmoittaa;sich zu einem Kurs anmelden/ilmoittautua kurssille
+die Bescheinigung;todistaminen/vahvistaminen;Das Nomen 'die Bescheinigung' kommt von 'bescheinigen'
+genug;tarpeeksi;Yara ist mit ihrem Girokonto im Haben, also im Plus. Es ist genug Geld auf ihrem Konto
+schulden;olla velkaa;Manchmal ist ein Konto im Soll, also im Minus. Dann schuldet man der Bank Geld.
+aufnehmen;nostaa;Yara hat Schulden bei der Bank. Sie hat für den Fahrradladen einen Kredit aufgenommen.
+eingebemn;antaa;dem Kranken die Tropfen eingeben/antaa sairaalle tipat
+schalten;kytkeä;Schalten Sie alle Geräte aus, die Sie gerade nicht brauchen. Computer, Fernseher: Im Stand-by-Modus wird Strom verbraucht!
+anlassen;jättää päälle/olla sammuttamatta;lass das Licht an/jätä valot palamaan
+ausschalten;sammuttaa;den Strom ausschalten/katkaista virta
+die Quittung;kuitti;jemandem eine Quittung über 100 Euro ausstellen/kirjoittaa jollekulle 100 euron kuitti
