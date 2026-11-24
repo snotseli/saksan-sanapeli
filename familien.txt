@@ -1,0 +1,22 @@
+der Vater;isä;Ich habe nicht mit meinem Vater telefoniert.
+das Fahrrad;polkupyörä;Ich bin mit​​​​​​ ​meinem Fahrrad gefahren.
+die Mutter;äiti;Ich habe mit meiner Mutter telefoniert.
+die Freunde;ystävät;Ich bin bei meinen Freunden.
+der Sohn;poika;Er spielt mit seinem Sohn.
+die Söhne;pojat;Sie spielt mit ihren Söhnen.
+die Tochter;tytär;Ihr spielt mit eurer Tochter.
+die Töchter;tyttäret;Ihr spielt mit euren Töchtern.
+die Großmutter;isoäiti;Sie ist bei ihrer Großmutter.
+Eltern;vanhemmat;Wohnst du bei deinen Eltern?
+das Handy;kännykkä;Hörst du oft mit deinem handy Musik?
+verlassen;lähteä;die Heimat verlassen/jättää kotimaa
+das Geschwister;sisarus;Ich habe Geschwister: einen Bruder und eine Schwester.
+der Enkel;lapsenlapsi;Meine Eltern haben also schon Enkel.
+der Neffe;sisaren-/veljenpoika;Der Sohn von meinem Bruder is mein Neffe.
+der Arzt;lääkäri;Nico ist beim Arzt.
+wohnen;asua;Nico möchte nicht mehr bei seinen Eltern wohnen.
+dass;että;Yara sagt, dass Nico bei ihr wohnen kann.
+der Bus;bussi;Selma fährt mit dem Bus.
+einkaufen;tehdä ostoksia;Selma geht mit ihrer Mutter einkaufen.
+weil;koska;Selma ruft Nico an, weil sie mit ihm sprechen möchte.
+vergessen;unohtaa;ich habe deine Adresse vergessen

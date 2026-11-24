@@ -1,0 +1,15 @@
+vorbereiten;valmistaa;Lisa bereitet den Deutschunterricht vor.
+der Bart;parta;Er ist blond und hat einen Bart.
+neben;vieressä;Neben Sebastian steht Nina.
+hinter;takana;Sebastian steht hinter Nina
+vor;edessä;Nico steht vor Lisa
+die Haare;hiukset;Der Mann mit der grauen Jacke und den braunen Haaren heißt Nico.
+scheiden;lopettaa/erota;sie ist geschieden
+lächeln;hymyillä;Er lächelt, ist freundlich und trinkt gern Kaffee.
+das Kleid;leninki;Die Frau mit dem orangen Kleid und den blonden Haaren  heißt Lisa.
+der Pullover;neulepusero;Der Mann mit dem dicken roten Pullover heißt Sebastian.
+die Jeans;farkut;Der Mann mit der blauen Jeans und dem orangen T-Shirt heißt Nawin.
+das Zimmer;huone;Er hat früher in meinem Zimmer gewohnt.
+das Herz;sydän;das Herz hämmert
+das Lied;laulu;das Lied der Nachtigall
+übersetzen;kääntää;Wir haben den Text aus dem Finnischen ins Deutsche übersetzt.
