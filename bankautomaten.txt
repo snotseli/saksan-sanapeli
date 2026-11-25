@@ -1,0 +1,11 @@
+erzählen;kertoa;Nico erzählt, dass er studiert hat.
+stecken;panna;jemanden ins Gefängnis stecken
+gefallen;miellyttää;Aber das Studium hat ihm nicht gefallen.
+eingeben;antaa;Dann gibt man seine PIN ein.
+drucken;painaa;Danach drückt man auf die grüne Taste mit der Aufschrift „Bestätigung“.
+Zuletzt;lopuksi;Zuletzt bekommt man die Geldscheine.
+der Kontoauszug;tiliote;die neuesten Kontoauszüge holen
+schlucken;niell;Der Automat hat meine Karte geschluckt
+die Auszahlung;maksaminen/maksu;Auf dem Schild steht „Auszahlung“. Das bedeutet, dass Sie an diesem Automaten nur Geld abheben können.
+ausdrucken;tulostaa;Sie Kontoauszüge: Sie müssen nur die Karte in den Automaten stecken und auf „Kontoauszüge“ tippen. Der Automat druckt Ihnen dann die aktuellen Umsätze aus.
+die Tastatur;näppäimistö;An dem Automaten hier rechts mit der Aufschrift „Überweisungen“ können Sie Überweisungen machen und mit der Tastatur die Daten vom Empfänger eingeben.
