@@ -1,0 +1,15 @@
+die Brille;silmälasit;eine Brille tragen/käyttää silmälaseja
+das Bein;jalka/alaraaja;Der ältere Mann braucht einen Gehstock. Er hat ein gebrochenes Bein.
+nehmen;ottaa;Hast du deine Medikamente genommen?
+das Geschirr;astiat;Ich kann noch das Geschirr spülen und die Waschmaschine bedienen.
+der Staubsauger;pölynimuri;Aber der Staubsauger ist zu schwer für mich.
+der Teller;lautanen;er hat zwei Teller Suppe gegessen
+die Wäsche;pyykki;Edith kann Wäsche waschen.
+der Dienst;työ/virka/palvelu/apu;Der Pflegdienst für einen entspannten Alltag
+die Pflege;hoito/huolenpito;ein Kind in Pflege nehmen
+aufstehen;nousta pystyyn;vom Stuhl aufstehen
+die Unterstützung;tuki;Oder Sie brauchen Unterstützung beim Anziehen und Essen?
+anziehen;pukea;die Mutter zieht das Kind an
+die Beschwerden;oireet;das Gehen macht mir Beschwerden
+ausruhen;levätä;du musst ein bisschen ausruhen
+ausgezeichnet;erinomainen;Es geht mir ausgezeichnet.
